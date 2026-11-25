@@ -1,0 +1,4 @@
+,Accuracy,Macro F1
+Logistic Regression,0.8805,0.8423
+Random Forest,0.8936,0.8609
+SVM,0.8842,0.8534
