@@ -4,7 +4,7 @@ An Arabic Natural Language Processing (NLP) and Machine Learning project designe
 
 The project includes Arabic text preprocessing, Exploratory Data Analysis (EDA), training and evaluation of multiple Machine Learning models, and an interactive Streamlit web application for analyzing Arabic news articles.
 
-🚀 **Live Demo:** [Arabic Fake News Detection](https://arabic-fake-news-ai.streamlit.app/)
+🚀 **Live Demo:** [Arabic Fake News Detection](https://arabic-news-detector.streamlit.app/)
 
 ---
 
